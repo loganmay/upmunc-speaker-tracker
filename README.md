@@ -14,8 +14,8 @@ The first thing you want to do when using the UPMUNC Speaker Tracker is customiz
 
 ![UPMUNC Speaker Tracker: Edit Delegates Menu](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/edit_delegates.PNG?raw=true)
 
-* **Clear All Delegates** will do just that. This is helpful for small committees and crises committees.
-* **Remove Delegates** will allow you to delete delegates one by one.
+* **Clear All Delegates** will do just that. This is helpful for small committees and crises committees to get rid of the mongo list.
+* **Remove Delegates** will allow you to delete delegates one by one. This is better for big committees where much of the original list applies.
 * Use the text input field and **Add Delegate** button to add new delegates to the list (Ctrl+Enter works, too). 
 
 Once you're done, click the **Stop Editing Delegates** button to save your changes.
