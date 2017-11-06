@@ -2,11 +2,11 @@
 
 ![UPMUNC Speaker Tracker UI Picture](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/upmunc.PNG?raw=true)
 
-## Using the UPMUNC Speaker Tracker
-
 ### WARNING: DON'T DELETE YOUR COOKIES
 
 Just a heads up - while you're using the UPMUNC Speaker Tracker (UST), don't delete your cookies for the duration of the conference. If you do, you'll lose all the data the system has accumulated about delegates during the conference. So, if you really need to look up something sketchy, steal a computer from an unsuspecting staffer.
+
+## Using the UPMUNC Speaker Tracker
 
 ### Customizing Your Delegates List
 
