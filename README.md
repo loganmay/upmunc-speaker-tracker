@@ -8,8 +8,8 @@ Just a heads up - while you're using the UPMUNC Speaker Tracker (UST), don't del
 
 ### WARNING \#2: IT ONLY WORKS ON FIREFOX AND CHROME (SORRY, NOT SORRY SAFARI)
 
-![Google Chrome Logo](https://www.seeklogo.net/wp-content/uploads/2014/10/Google-Chrome-logo-vector-download.png)
-![Mozilla Firefox Logo])(http://gruvix.com/wp-content/uploads/2011/11/firefox-logo.jpg)
+![Google Chrome Logo](http://cloud.techylab.com/wp-content/uploads/2012/10/chrome-logo.jpg)
+![Mozilla Firefox Logo](http://www.ladadadada.net/images/firefox_logo_transparent_thumb.png)
 
 ## Using the UPMUNC Speaker Tracker
 
