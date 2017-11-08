@@ -2,11 +2,11 @@
 
 ![UPMUNC Speaker Tracker UI Picture](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/upmunc.PNG?raw=true)
 
-### WARNING \#1: DON'T DELETE YOUR COOKIES
+### HEADS UP \#1: DON'T DELETE YOUR COOKIES
 
 Just a heads up - while you're using the UPMUNC Speaker Tracker (UST), don't delete your cookies for the duration of the conference. If you do, you'll lose all the data the system has accumulated about delegates during the conference. So, if you really need to look up something sketchy, steal a computer from an unsuspecting staffer.
 
-### WARNING \#2: IT ONLY WORKS ON FIREFOX AND CHROME (SORRY, NOT SORRY SAFARI)
+### HEADS UP \#2: IT ONLY WORKS ON FIREFOX AND CHROME (SORRY, NOT SORRY SAFARI)
 
 ![Google Chrome Logo](http://cloud.techylab.com/wp-content/uploads/2012/10/chrome-logo.jpg)
 ![Mozilla Firefox Logo](http://www.ladadadada.net/images/firefox_logo_transparent_thumb.png)
