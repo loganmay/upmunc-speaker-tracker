@@ -8,6 +8,9 @@ Just a heads up - while you're using the UPMUNC Speaker Tracker (UST), don't del
 
 ### WARNING \#2: IT ONLY WORKS ON FIREFOX AND CHROME (SORRY, NOT SORRY SAFARI)
 
+![Google Chrome Logo](https://www.seeklogo.net/wp-content/uploads/2014/10/Google-Chrome-logo-vector-download.png)
+![Mozilla Firefox Logo])(http://gruvix.com/wp-content/uploads/2011/11/firefox-logo.jpg)
+
 ## Using the UPMUNC Speaker Tracker
 
 ### Customizing Your Delegates List
