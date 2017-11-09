@@ -95,4 +95,4 @@ When you're all finished up with committee sessions, type **UPMUNC RULEZ** into 
 
 ### Ideas, Bugs, Suggestions?
 
-We are all ears! Find the Ops Team at the conference or <a href="mailto:loma@sas.upenn.edu">email Logan</a>.
+We are all ears! Find the Ops Team at the conference or <a href="mailto:loma@sas.upenn.edu?subject=UPMUNC 51 Speaker Tracker">email Logan</a>.
