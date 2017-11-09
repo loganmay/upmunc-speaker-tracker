@@ -88,6 +88,12 @@ At the bottom left hand corner of the screen is a small **'i' icon** which you c
 
 ![UPMUNC Speaker Tracker: Checking Quorum](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/info.PNG?raw=true)
 
-### Viewing Your Committee's Data (End of Conference)
+## After The Conference
+
+### Viewing Your Committee's Data
 
 When you're all finished up with committee sessions, type **UPMUNC RULEZ** into the _# of Seconds_ field and click **Set Timer**. This will download a text file to your computer that contains all of the speaking data from your committee.  We will work to provide an interface where you can upload the text file and get a clear picture of the data.
+
+### Ideas, Bugs, Suggestions?
+
+We are all ears! Find the Ops Team at the conference or <a href="mailto:loma@sas.upenn.edu">email Logan</a>.
