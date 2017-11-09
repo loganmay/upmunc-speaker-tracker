@@ -62,6 +62,8 @@ If a delegate wishes to be removed from the speakers list, just hover over the s
 
 When the first delegate on the list is ready to speak, click the **Next Speaker** button. This will remove the delegate from the list, but put the delegate's name front and center underneath the timer.  That means the delegate has the floor and is ready to be timed (See using the timer below.)
 
+![UPMUNC Speaker Tracker Main Gif](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/speaker_tracker.gif?raw=true)
+
 ### Using the Timer
 
 #### Set the Speaking Time
