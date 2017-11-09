@@ -31,11 +31,16 @@ _Note: after you're done adding delegates, you can reload the page to resort the
 
 Use the **Start Roll Call** button to begin taking roll.  You'll push this button every time you want to take roll again.  The system tracks who makes roll how many times, so be sure to use it to generate accurate data. You also need to take roll through the system in order to build a speakers list with it later on.
 
-Once you start roll, everyone is marked as present. You can then mark delegates as absent by clicking the **Present** button next to the name, which will then read **Absent**.  When you've gone through every delegate, click the **Submit Roll Call** button to save the roll call.
+Once you start roll, everyone is marked as present. You can then mark delegates as absent by unchecking the green check next to the name.  When you've gone through every delegate, click the **Submit Roll Call** button to save the roll call.
 
 ![UPMUNC Speaker Tracker: Roll Call](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/roll_call.PNG?raw=true)
 
 _Note: you can use the **Hide Absent Delegates** button to hide absent delegates from the view_
+
+### Setting Caucus Time
+In the bottom right hand corner, there is a timer you can hover over to set the duration of the caucus.  It's pretty straightforward - just enter a time in the format of minutes:seconds and click **Set Time**. This is synced up with the individual timer, so keeping everything on time will be simple.
+
+![UPMUNC Speaker Tracker: Caucus Timer](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/caucus_timer.PNG?raw=true)
 
 ### Using the Speakers List
 
