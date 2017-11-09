@@ -87,3 +87,7 @@ On the contrary, the **Restart Timer** button will set the timer back to the spe
 At the bottom left hand corner of the screen is a small **'i' icon** which you can hover over to see useful committee info such as quorum, 2/3 majority, etc.
 
 ![UPMUNC Speaker Tracker: Checking Quorum](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/info.PNG?raw=true)
+
+### Viewing Your Committee's Data (End of Conference)
+
+When you're all finished up with committee sessions, type **UPMUNC RULEZ** into the _# of Seconds_ field and click **Set Timer**. This will download a text file to your computer that contains all of the speaking data from your committee.  We will work to provide an interface where you can upload the text file and get a clear picture of the data.
