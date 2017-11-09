@@ -9,7 +9,7 @@ Just a heads up - while you're using the UPMUNC Speaker Tracker (UST), don't del
 ### HEADS UP \#2: IT ONLY WORKS ON FIREFOX AND CHROME
 ![Google Chrome Logo](http://cloud.techylab.com/wp-content/uploads/2012/10/chrome-logo.jpg)
 ![Mozilla Firefox Logo](http://www.ladadadada.net/images/firefox_logo_transparent_thumb.png)
-<br />Sorry, not sorry, Safari. And, what's an internet explorer? Is that like a dude in a tin foil hat?
+<br />Sorry, not sorry, Safari.
 
 ## Using the UPMUNC Speaker Tracker
 
