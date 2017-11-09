@@ -1,6 +1,6 @@
 # upmunc-speaker-tracker
 
-![UPMUNC Speaker Tracker Main Gif(https://github.com/loganmay/upmunc-speaker-tracker/blob/master/speaker_tracker.gif?raw=true)
+![UPMUNC Speaker Tracker Main Gif](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/speaker_tracker.gif?raw=true)
 
 ### HEADS UP \#1: DON'T DELETE YOUR COOKIES
 
