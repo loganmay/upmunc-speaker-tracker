@@ -44,7 +44,7 @@ In the bottom right hand corner, there is a timer you can hover over to set the 
 
 ### Using the Speakers List
 
-Once you've created your delegates list and taken roll, you're ready to build a speakers list for the committee session. Get started by clicking the **View Speakers List** button to open up the Speakers List panel.
+Once you've created your delegates list and taken roll, you're ready to build a speakers list for the committee session. Get started by clicking the **Speakers List** button to open up the Speakers List panel.
 
 ![UPMUNC Speaker Tracker: Edit Delegates Menu](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/speakers_list.gif?raw=true)
 
