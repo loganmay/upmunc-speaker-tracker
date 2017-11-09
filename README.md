@@ -76,6 +76,8 @@ Click the **Start Timer** button to begin timing.  If a delegate has the floor, 
 
 Once you start the time, a **Pause** button will appear you can use to pause the clock for whatever reason. If you pause it, the pause button becomes a **Play** button you can use to set the timer in motion again.
 
+_Note: As long as you're not typing in a textbox, you can use the **Space Bar** to pause and play_
+
 On the contrary, the **Restart Timer** button will set the timer back to the speaking time and start the clock immediately.
 
 > Your ideal workflow: Click **Next Speaker**. When the delegate is about to speak, click **Start Timer**. When the timer goes off, repeat.
