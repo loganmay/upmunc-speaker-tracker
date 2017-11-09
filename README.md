@@ -1,6 +1,6 @@
 # upmunc-speaker-tracker
 
-![UPMUNC Speaker Tracker UI Picture](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/upmunc.PNG?raw=true)
+![UPMUNC Speaker Tracker Main Gif(https://github.com/loganmay/upmunc-speaker-tracker/blob/master/speaker_tracker.gif?raw=true)
 
 ### HEADS UP \#1: DON'T DELETE YOUR COOKIES
 
@@ -17,7 +17,7 @@ Just a heads up - while you're using the UPMUNC Speaker Tracker (UST), don't del
 
 The first thing you want to do when using the UPMUNC Speaker Tracker is customize your delegates list. The delegates list appears on the left hand side of the UI. By default, the list contains all of the countries in the UN. Customize the list by clicking the **Edit Delegates List** button, which opens up a small menu:
 
-![UPMUNC Speaker Tracker: Edit Delegates Menu](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/edit_delegates.PNG?raw=true)
+![UPMUNC Speaker Tracker: Edit Delegates Menu](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/edit_dels.gif?raw=true)
 
 * **Clear All Delegates** will do just that. This is helpful for small committees and crises committees to get rid of the mongo list.
 * **Remove Delegates** will allow you to delete delegates one by one. This is better for big committees where much of the original list applies.
@@ -33,20 +33,20 @@ Use the **Start Roll Call** button to begin taking roll.  You'll push this butto
 
 Once you start roll, everyone is marked as present. You can then mark delegates as absent by unchecking the green check next to the name.  When you've gone through every delegate, click the **Submit Roll Call** button to save the roll call.
 
-![UPMUNC Speaker Tracker: Roll Call](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/roll_call.PNG?raw=true)
+![UPMUNC Speaker Tracker: Roll Call](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/roll_call.gif?raw=true)
 
 _Note: you can use the **Hide Absent Delegates** button to hide absent delegates from the view_
 
 ### Setting Caucus Time
 In the bottom right hand corner, there is a timer you can hover over to set the duration of the caucus.  It's pretty straightforward - just enter a time in the format of minutes:seconds and click **Set Time**. This is synced up with the individual timer, so keeping everything on time will be simple.
 
-![UPMUNC Speaker Tracker: Caucus Timer](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/caucus_timer.PNG?raw=true)
+![UPMUNC Speaker Tracker: Caucus Timer](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/caucus_time.gif?raw=true)
 
 ### Using the Speakers List
 
 Once you've created your delegates list and taken roll, you're ready to build a speakers list for the committee session. Get started by clicking the **View Speakers List** button to open up the Speakers List panel.
 
-![UPMUNC Speaker Tracker: Edit Delegates Menu](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/speakers_list.PNG?raw=true)
+![UPMUNC Speaker Tracker: Edit Delegates Menu](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/speakers_list.gif?raw=true)
 
 #### Add a Speaker to the list
 
@@ -58,7 +58,7 @@ _Note: the small number next to the speakers name indicates how many times that 
 
 #### Remove a speaker
 
-If a delegate wishes to be removed from the speakers list, use the **red x button** to begin deleting delegates.  Once you're done removing delegates, use the **red thumbs up button** to return to the normal view.
+If a delegate wishes to be removed from the speakers list, just hover over the speaker and click the **red x button** that appears.
 
 #### Give a speaker the floor
 
@@ -84,4 +84,4 @@ On the contrary, the **Restart Timer** button will set the timer back to the spe
 
 At the bottom left hand corner of the screen is a small **'i' icon** which you can hover over to see useful committee info such as quorum, 2/3 majority, etc.
 
-![UPMUNC Speaker Tracker: Adding a Speaker](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/info.PNG?raw=true)
+![UPMUNC Speaker Tracker: Checking Quorum](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/info.PNG?raw=true)
