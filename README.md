@@ -52,8 +52,6 @@ Once you've created your delegates list and taken roll, you're ready to build a 
 
 Add a speaker by beginning to type the delegate's name into the _Add A Speaker_ text input field. A list of the names of present delegates that match what you've typed will appear below:
 
-![UPMUNC Speaker Tracker: Adding a Speaker](https://github.com/loganmay/upmunc-speaker-tracker/blob/master/add_speaker.PNG?raw=true)
-
 _Note: the small number next to the speakers name indicates how many times that delegate has already spoken. Use this to evenly distribute speaking time amongst delegates_
 
 #### Remove a speaker
